@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:rideasy/Models/allUsers.dart';
 
-String mapKey = "AIzaSyAX81U_2Zv0Kh3ROAMkQqb7JIL9Ul9yz6o";
+String mapKey = "YOUR_API_KEY";
 User firebaseUser;
 Users userCurrentInfo;
 
