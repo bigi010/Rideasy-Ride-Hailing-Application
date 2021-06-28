@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "102233908604",
+    "project_id": "rideasy-sp",
+    "storage_bucket": "rideasy-sp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:102233908604:android:1f1a8d6b95b2cfc847b0f9",
+        "android_client_info": {
+          "package_name": "myapp.com.rideasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "102233908604-sovsducaicgsiipa6ilbmjr864pj3epb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBG7jq38Ly0XnsartJ3iIKDxrB88FTx3Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "102233908604-sovsducaicgsiipa6ilbmjr864pj3epb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
